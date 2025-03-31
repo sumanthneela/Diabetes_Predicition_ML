@@ -112,6 +112,6 @@ The dataset used for this project is the **PIMA Indian Diabetes Dataset** from K
 ---
 
 ## **Contributors**  
-**Sumanth Neela** - [GitHub Profile]https://github.com/sumanthneela
+**Sumanth Neela** - **GitHub Profile** : https://github.com/sumanthneela
 
 ---
