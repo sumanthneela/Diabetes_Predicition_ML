@@ -94,8 +94,11 @@ The dataset used for this project is the **PIMA Indian Diabetes Dataset** from K
 - Future improvements include hyperparameter tuning and additional feature engineering  
 
 ## **Outputs** 
+
+### **Output1 - (Not a Diabetic)** 
 <img width="763" alt="Screenshot 2025-03-31 at 2 18 05 PM" src="https://github.com/user-attachments/assets/d37e9beb-44d1-48f3-84ee-398940eebc32" />
 
+### **Output2 - (Diabetic)** 
 <img width="736" alt="Screenshot 2025-03-31 at 2 17 11 PM" src="https://github.com/user-attachments/assets/26a0ffc8-5c8f-47c8-a92e-2ada6369985c" />
 
 
